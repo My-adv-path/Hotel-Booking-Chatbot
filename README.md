@@ -6,6 +6,7 @@ This project is a Hotel Booking Chatbot developed using Google Dialogflow.
 The chatbot assists users in booking hotel rooms by collecting details such as location, check-in date, check-out date, number of guests, and room preferences through a conversational interface.
 The chatbot is designed to provide a smooth, interactive experience and can be integrated with websites or messaging platforms.
 
+
 ✨ Features
 
 Natural language conversation using Dialogflow
@@ -20,6 +21,7 @@ Confirmation of booking details
 
 Easy to extend with backend or database integration
 
+
 🛠️ Tech Stack
 
 Dialogflow ES
@@ -28,12 +30,17 @@ Natural Language Processing (NLP)
 
 Streamlit
 
+
 📂 Project Structure
 
 hotel-booking-chatbot/
-│── intents/
-│── entities/
+
+│── intents
+
+│── entities
+
 │── agent.json
+
 │── README.md
 
 
