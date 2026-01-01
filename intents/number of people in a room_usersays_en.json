@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0e99bbf9-29d2-4ab2-a747-33da2b6263d7",
+    "data": [
+      {
+        "text": "how many people can stay in a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f77a3db0-f1f1-4033-85a8-6f434a239310",
+    "data": [
+      {
+        "text": "no of prople in a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a975f7d8-cb19-43e2-ae12-04fdaa3fcf25",
+    "data": [
+      {
+        "text": "how many people can accommodate in a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

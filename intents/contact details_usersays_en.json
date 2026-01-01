@@ -1,0 +1,119 @@
+[
+  {
+    "id": "d4d904ba-d328-422d-b129-8dadada2e652",
+    "data": [
+      {
+        "text": "hotel number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36a6b45a-0056-43ce-ad49-6be6b8c8e752",
+    "data": [
+      {
+        "text": "how can i talk to the hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d9aa1c7-1a0e-438b-8bc0-d8d281fa27e3",
+    "data": [
+      {
+        "text": "what is the contact number for the hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85df36f5-ded7-4632-a7df-6cca0d2156d9",
+    "data": [
+      {
+        "text": "what is contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c9298a9-a52c-4b82-b875-e07cc7d24bfe",
+    "data": [
+      {
+        "text": "whom should i contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3960e0a7-5f73-49fb-bd66-320c8acd17c8",
+    "data": [
+      {
+        "text": "provide the information desk number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e96c37e-4c38-4a78-8a0f-6aca14dfd293",
+    "data": [
+      {
+        "text": "give the help desk number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de6a1b3d-7161-4aac-a423-61e1070aa8b0",
+    "data": [
+      {
+        "text": "whom should i approach to get help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3711f1b4-39c2-4006-99a0-a72cd318a109",
+    "data": [
+      {
+        "text": "what is the reception number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

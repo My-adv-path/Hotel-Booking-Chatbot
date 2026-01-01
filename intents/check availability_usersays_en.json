@@ -1,0 +1,116 @@
+[
+  {
+    "id": "000c0db2-52c0-489a-b4d1-dd5761fb519f",
+    "data": [
+      {
+        "text": "Is there rooms on ",
+        "userDefined": false
+      },
+      {
+        "text": "15 may 2026",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8323ab99-91c9-4028-ab22-0c452badc04c",
+    "data": [
+      {
+        "text": "Is there rooms on ",
+        "userDefined": false
+      },
+      {
+        "text": "2-01-26",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c6c787c-30f7-4790-8373-4335d568d372",
+    "data": [
+      {
+        "text": "room availability on ",
+        "userDefined": false
+      },
+      {
+        "text": "4th july",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee13c0be-b77c-4ef2-ba61-7895c3bd0136",
+    "data": [
+      {
+        "text": "is rooms available ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c5f2ebd-1008-4342-a538-48885c46cf41",
+    "data": [
+      {
+        "text": "is a room available ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aced74f6-a6bb-43a7-a7fb-cba7dcac4453",
+    "data": [
+      {
+        "text": "is there 2 rooms available ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

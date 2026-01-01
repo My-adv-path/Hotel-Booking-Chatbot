@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8c74b357-9e70-4144-bab0-b0a472f70a2e",
+    "data": [
+      {
+        "text": "available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bc0a1b7-29f4-491c-ad9a-da5f0fd1cea5",
+    "data": [
+      {
+        "text": "available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e7dc96d-4c9f-446a-81af-90f24acdfe2a",
+    "data": [
+      {
+        "text": "how many rooms do you have in HOMEAWAY_INN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d313ab06-d356-4a23-a3ae-dbf00bd6e3b6",
+    "data": [
+      {
+        "text": "how many rooms do u have in your hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a216393-4c55-4444-96a8-fc6b257e16b3",
+    "data": [
+      {
+        "text": "how many rooms do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

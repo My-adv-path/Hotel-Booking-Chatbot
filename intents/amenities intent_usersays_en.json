@@ -1,0 +1,233 @@
+[
+  {
+    "id": "065538e5-4bb8-462d-a43c-f81c3b25ec15",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " interaction area are available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4d6e417-f4aa-40d8-8895-a2a78678d493",
+    "data": [
+      {
+        "text": "availability of ",
+        "userDefined": false
+      },
+      {
+        "text": "party hall",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3bf41b8-71db-4751-aa37-76d62fac47b8",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "banquet hall",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b8d311b-63be-49f8-b4fa-2708b37fdc2a",
+    "data": [
+      {
+        "text": "do you have a ",
+        "userDefined": false
+      },
+      {
+        "text": "banquet hall",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d1d5934-e254-45bc-9790-c091353609e5",
+    "data": [
+      {
+        "text": "do u have a ",
+        "userDefined": false
+      },
+      {
+        "text": "party hall",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b61903de-f938-477c-a66b-357539508c73",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": true
+      },
+      {
+        "text": " area available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f510a0f-2158-4206-91b4-e6a4e3eb70fe",
+    "data": [
+      {
+        "text": "is parking available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cadc0e6-5b6c-4f38-bd15-3aa44464fe52",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "laundry",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cafe7138-5e16-40ea-9943-9501b924121c",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "beach",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "playarea",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " present",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4521b2b-29ac-4ded-ae4b-9c73327cd6d0",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "cooking",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " kit provided",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01a17200-0dab-4316-9adc-c5282ef77c0a",
+    "data": [
+      {
+        "text": "what all facilities are provided by your hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

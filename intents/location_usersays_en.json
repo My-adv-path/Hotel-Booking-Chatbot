@@ -1,0 +1,54 @@
+[
+  {
+    "id": "7d824804-fd85-45e3-916e-20e40d15a333",
+    "data": [
+      {
+        "text": "how to identify your hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3611f9f8-7420-421e-abce-2e5e9a1135b9",
+    "data": [
+      {
+        "text": "can u tell me any landmark",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7ebdf8d-02ed-4ca6-b556-7d022afa96d5",
+    "data": [
+      {
+        "text": "what is the nearest landmark",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d226642-27e1-421d-9d8e-fe6aeb81164c",
+    "data": [
+      {
+        "text": "what is the nearest landmark to your hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

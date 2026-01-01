@@ -1,0 +1,50 @@
+{
+  "id": "7bbf1a80-bac7-41f6-beb2-f4c86cc0f3dc",
+  "name": "amenities cost",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a4dcbeee-91eb-4aa6-8e3f-6d3efc63a5c6",
+          "name": "amenities",
+          "required": false,
+          "dataType": "@amenities",
+          "value": "$amenities",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "airport shuttle, parking , complementary breakfast, gym, swimmimg pool, wifi, beach, iron,  cooking kit, sewing kit is free whereas party hall, playarea, banquet hall, parlour, gaming console, spa, mini bar ,pet interaction areas are charged"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "d607caf0-4cc4-4751-b05c-d47c7c2f0a4b",
+    "data": [
+      {
+        "text": "how many number of deluxe rooms are available in HOMEAWAY_INN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3769077f-f5b5-425c-b65e-d57f04392a1c",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "deluxe rooms",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": false
+      },
+      {
+        "text": " are available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30ef1f04-3912-4223-a332-b9b2865bf29c",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "deluxe rooms",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": false
+      },
+      {
+        "text": " do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

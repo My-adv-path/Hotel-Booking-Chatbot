@@ -1,0 +1,59 @@
+[
+  {
+    "id": "c9f73a08-bcc9-4747-bc83-3adbb60d3980",
+    "data": [
+      {
+        "text": "how many can stay in a ",
+        "userDefined": false
+      },
+      {
+        "text": "suite room",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19995393-e667-4468-a08f-02df8af5bdf3",
+    "data": [
+      {
+        "text": "how many people are allowed to stay in a ",
+        "userDefined": false
+      },
+      {
+        "text": "suite room",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bee93b21-db2f-4607-a3db-b89c3392d669",
+    "data": [
+      {
+        "text": "how many persons are allowed in a ",
+        "userDefined": false
+      },
+      {
+        "text": "suite room",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

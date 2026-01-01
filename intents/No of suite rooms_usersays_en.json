@@ -1,0 +1,80 @@
+[
+  {
+    "id": "148dd967-d20a-4ef9-82e0-92dcda213357",
+    "data": [
+      {
+        "text": "number of suite rooms in HOMEAWAY_INN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53da926c-f989-4150-8011-2cac3cc2da71",
+    "data": [
+      {
+        "text": "no of ",
+        "userDefined": false
+      },
+      {
+        "text": "suite rooms",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85e4275a-f6c4-4a9f-9804-f3a35993717c",
+    "data": [
+      {
+        "text": "number of ",
+        "userDefined": false
+      },
+      {
+        "text": "suite rooms",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": false
+      },
+      {
+        "text": " in your hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "631ef0c5-786d-4aac-b3a7-42d6cf1c0762",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "suite rooms",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": false
+      },
+      {
+        "text": " are available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

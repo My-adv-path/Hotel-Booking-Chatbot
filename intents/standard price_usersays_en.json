@@ -1,0 +1,83 @@
+[
+  {
+    "id": "09937af2-5c69-4ea6-a7a0-ccf56fb55eee",
+    "data": [
+      {
+        "text": "what is the tariff for ",
+        "userDefined": false
+      },
+      {
+        "text": "standard",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      },
+      {
+        "text": " room for ",
+        "userDefined": false
+      },
+      {
+        "text": "half a day",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dfeafe2-867b-4b9e-98f2-73738673f64a",
+    "data": [
+      {
+        "text": "what is the cost for ",
+        "userDefined": false
+      },
+      {
+        "text": "standard",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      },
+      {
+        "text": " room for ",
+        "userDefined": false
+      },
+      {
+        "text": "1 evening",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66eae003-449a-4606-b477-4996f4baaece",
+    "data": [
+      {
+        "text": "what is the price for ",
+        "userDefined": false
+      },
+      {
+        "text": "standard",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

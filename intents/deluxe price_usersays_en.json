@@ -1,0 +1,106 @@
+[
+  {
+    "id": "7b60d9e7-c425-4771-b1cb-22c396920eb0",
+    "data": [
+      {
+        "text": "tell me the price of ",
+        "userDefined": false
+      },
+      {
+        "text": "deluxe",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39f5293c-7b47-49e8-8dd9-025e59d108fe",
+    "data": [
+      {
+        "text": "what is the cost for ",
+        "userDefined": false
+      },
+      {
+        "text": "half a day",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": "  in ",
+        "userDefined": false
+      },
+      {
+        "text": "deluxe",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f855319a-2387-4337-9515-6414ca00b8b5",
+    "data": [
+      {
+        "text": "what is the cost for ",
+        "userDefined": false
+      },
+      {
+        "text": "1 evening",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "deluxe",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4537927-201b-4894-bff7-f97e0aa2ba63",
+    "data": [
+      {
+        "text": "what is the cost for ",
+        "userDefined": false
+      },
+      {
+        "text": "deluxe",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d587ee84-3c28-4103-94ab-2ef9767df897",
+    "data": [
+      {
+        "text": "when can I cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e2657a4-7711-4fe8-ad1b-13e922047eb2",
+    "data": [
+      {
+        "text": "Is there refund after cancellation provided",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "713a1814-608b-403d-825f-cdedd8be854e",
+    "data": [
+      {
+        "text": "what is the cancellation procedure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49546b97-1af5-44ca-919a-eda3ddf82240",
+    "data": [
+      {
+        "text": "how many days before can I cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9ac24d0-3e7b-46b3-8c79-9c680a1fd3ea",
+    "data": [
+      {
+        "text": "how can I cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cfe2c37-aa30-4dc4-bd20-9a511ba8f5cc",
+    "data": [
+      {
+        "text": "can I cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

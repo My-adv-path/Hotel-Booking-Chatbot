@@ -1,0 +1,67 @@
+[
+  {
+    "id": "838f7349-f1a6-4702-8a6b-797558cf7d85",
+    "data": [
+      {
+        "text": "who are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca14d4b6-6abf-4ad8-97d3-e9cbc5e12560",
+    "data": [
+      {
+        "text": "tell about yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4c592de-2c6a-4cd7-b70d-7d519e832773",
+    "data": [
+      {
+        "text": "elucidate about Homeaway_inn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "668e636f-971d-4764-a145-f6c688775fac",
+    "data": [
+      {
+        "text": "tell about your hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3ead47e-5d55-4608-b930-858e350e0816",
+    "data": [
+      {
+        "text": "explain about your hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

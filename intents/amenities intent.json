@@ -1,0 +1,50 @@
+{
+  "id": "2f2a5e95-fce1-411b-90c0-39301eb952cb",
+  "name": "amenities intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b681c9b-9916-4272-b30d-3a88e9e57a5d",
+          "name": "amenities",
+          "required": false,
+          "dataType": "@amenities",
+          "value": "$amenities",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "airport shuttle, parking, complementary breakfast, wifi, beach , playarea , party hall, banquet hall, sewing kit, cooking kit , gym, spa, iron, laundry, parlour, pet interaction areas , gaming console, mini bar, swimming pool, will be provided ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

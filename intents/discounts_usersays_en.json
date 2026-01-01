@@ -1,0 +1,41 @@
+[
+  {
+    "id": "3229e036-a1da-4bfa-89b5-0676e253c6f4",
+    "data": [
+      {
+        "text": "what kind of offers are available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21a7a483-71b5-476f-b7c2-f16eab124676",
+    "data": [
+      {
+        "text": "is any offers available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b367a63d-d90a-402b-a2db-8dce070b068c",
+    "data": [
+      {
+        "text": "is any discounts available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

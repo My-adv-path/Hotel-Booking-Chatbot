@@ -1,0 +1,40 @@
+[
+  {
+    "id": "07e6509d-8ecd-46e5-8b0d-27a11ccc32aa",
+    "data": [
+      {
+        "text": "standard",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fdba1aa-7312-40f5-ab52-115b1dea3f60",
+    "data": [
+      {
+        "text": "do u have a ",
+        "userDefined": false
+      },
+      {
+        "text": "standard",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "3f3c5c2e-e2a1-4b09-9e07-0dcb6d0393f9",
+    "data": [
+      {
+        "text": "how many people can stay in a ",
+        "userDefined": false
+      },
+      {
+        "text": "standard room",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d4c9a67-e5d5-41ed-ba22-9f15e40fe97f",
+    "data": [
+      {
+        "text": "how many people can accommodate in a ",
+        "userDefined": false
+      },
+      {
+        "text": "deluxe room",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

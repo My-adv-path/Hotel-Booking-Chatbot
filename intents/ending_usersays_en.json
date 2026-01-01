@@ -1,0 +1,54 @@
+[
+  {
+    "id": "edae2259-118e-4e35-963a-785666f972b3",
+    "data": [
+      {
+        "text": "see you again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa85a89a-4dfe-4452-8064-e9deac2eba09",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ea80b7c-ff09-4213-a5ac-6ebd0ba90591",
+    "data": [
+      {
+        "text": "thank you for your help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3a5f354-bd37-4580-a43b-0d0f78bb5cfc",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

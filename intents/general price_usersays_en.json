@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b1a21094-8777-4ce7-aa6b-ef3a6cebbf45",
+    "data": [
+      {
+        "text": "what is the price for 2 rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05898001-729e-4f57-9aa9-512678012beb",
+    "data": [
+      {
+        "text": "what is the amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f913e6b5-87c7-42c4-882e-c2a02814fa38",
+    "data": [
+      {
+        "text": "what is the tariff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb208064-76fc-4ed6-9caf-9d90b57a00e4",
+    "data": [
+      {
+        "text": "what is the cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

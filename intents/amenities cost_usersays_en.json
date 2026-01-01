@@ -1,0 +1,120 @@
+[
+  {
+    "id": "df5e139d-4b5f-4307-ba93-5e255056a660",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "banquet hall",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b3bf7e9-369f-4697-a909-fff3834cb900",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "spa",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c11d21d-2f6a-4f76-b4de-a8adbf006dfc",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "gym",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3820390-0210-489f-ba72-8eeeeb54a58b",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "party hall",
+        "meta": "@amenities",
+        "alias": "amenities",
+        "userDefined": false
+      },
+      {
+        "text": " free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "486e2a7f-e895-4ce3-b675-dab4a757c239",
+    "data": [
+      {
+        "text": "is all the facilities provided free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66165d0f-b5f8-4fd6-81fc-f4f98ef62b5e",
+    "data": [
+      {
+        "text": "is it free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

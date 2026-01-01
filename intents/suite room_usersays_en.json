@@ -1,0 +1,25 @@
+[
+  {
+    "id": "d92b8b8b-68b9-4fa3-a0cf-ea2e4c75ffce",
+    "data": [
+      {
+        "text": "do you have a ",
+        "userDefined": false
+      },
+      {
+        "text": "suite",
+        "meta": "@room-types",
+        "alias": "room-types",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
