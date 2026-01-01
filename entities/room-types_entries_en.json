@@ -1,0 +1,20 @@
+[
+  {
+    "value": "deluxe",
+    "synonyms": [
+      "deluxe room"
+    ]
+  },
+  {
+    "value": "suite",
+    "synonyms": [
+      "suite room"
+    ]
+  },
+  {
+    "value": "standard",
+    "synonyms": [
+      "standard room"
+    ]
+  }
+]

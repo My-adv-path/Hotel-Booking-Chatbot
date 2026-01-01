@@ -1,0 +1,106 @@
+[
+  {
+    "value": "wifi",
+    "synonyms": [
+      "wifi"
+    ]
+  },
+  {
+    "value": "cooking",
+    "synonyms": [
+      "cooking"
+    ]
+  },
+  {
+    "value": "iron",
+    "synonyms": [
+      "iron"
+    ]
+  },
+  {
+    "value": "laundry",
+    "synonyms": [
+      "laundry"
+    ]
+  },
+  {
+    "value": "play",
+    "synonyms": [
+      "playground",
+      "playarea"
+    ]
+  },
+  {
+    "value": "beach",
+    "synonyms": [
+      "beach"
+    ]
+  },
+  {
+    "value": "spa",
+    "synonyms": [
+      "spa"
+    ]
+  },
+  {
+    "value": "parlour",
+    "synonyms": [
+      "parlour"
+    ]
+  },
+  {
+    "value": "mini bar",
+    "synonyms": [
+      "mini bar"
+    ]
+  },
+  {
+    "value": "sewing kit",
+    "synonyms": [
+      "sewing kit"
+    ]
+  },
+  {
+    "value": "gaming console",
+    "synonyms": [
+      "gaming console"
+    ]
+  },
+  {
+    "value": "gym",
+    "synonyms": [
+      "gym"
+    ]
+  },
+  {
+    "value": "swimming pool",
+    "synonyms": [
+      "swimming pool"
+    ]
+  },
+  {
+    "value": "pet",
+    "synonyms": [
+      "pet friendly",
+      "animal"
+    ]
+  },
+  {
+    "value": "airport shuttle",
+    "synonyms": [
+      "airport shuttle"
+    ]
+  },
+  {
+    "value": "party hall",
+    "synonyms": [
+      "party hall"
+    ]
+  },
+  {
+    "value": "banquet hall",
+    "synonyms": [
+      "banquet hall"
+    ]
+  }
+]

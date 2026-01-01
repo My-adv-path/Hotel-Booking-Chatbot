@@ -1,0 +1,9 @@
+{
+  "id": "7915c9f8-cccc-43d0-a018-683dacc3e742",
+  "name": "amenities",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
